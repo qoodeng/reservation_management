@@ -1,5 +1,7 @@
 # Wolfe - A Hotel and Reservation Voice Agent 
 
+**NOTE**: Twilio functionality is currently on the feature branch.
+
 A real-time voice AI agent that manages hotel reservations via natural conversation. Guests can check, create, modify, and cancel bookings by speaking to the agent live over WebRTC, with all changes reflected in a live dashboard.
 
 **Tech Stack**: Pipecat (voice pipeline) + Deepgram STT + OpenAI GPT-4o + Cartesia TTS + Daily.co WebRTC + FastAPI + MongoDB
